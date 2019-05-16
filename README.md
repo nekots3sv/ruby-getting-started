@@ -1,7 +1,7 @@
 # ruby-getting-started
 
 A barebones Rails app, which can easily be deployed to Heroku.
-thongchat tebharak
+thongchat tebharakdede
 This application supports the [Getting Started on Heroku with Ruby](https://devcenter.heroku.com/articles/getting-started-with-ruby) article - check it out.
 
 ## Running Locally
